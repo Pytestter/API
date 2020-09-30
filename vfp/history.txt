@@ -1,0 +1,59 @@
+1.预审批incomeMonth为0的时候：    已修复
+threadId为： TTlJJUdBSiUlUDBB
+预审批transactionId: zlmyishenpi1557114624
+.预审批请求返回结果： {'responseCode': '0000', 'message': '预审批申请处理中', 'data': {'status': 'pending', 'reasonCode': None, 'message': None, 'externalCode': None, 'externalNo': None, 'externalDesc': None, 'deadlineTime': None, 'preApprovalAmount': None}}
+预审批查询结果为：status:failure       message：incomeMonth必须大于0!
+
+
+2.acType为11，extension.listAc.phoneNo为空，放款成功
+放款的transactionId为： zlmfangkuan1557121704
+放款返回结果为： 1ef5a989-14e5-475c-b3db-21dd4eafca6e
+.bid值为： hr05060009
+查询请款结果为：status:PENDING       message：校验成功，正式进件结果返回
+.
+3.acType为10，extension.listAc.phoneNo为空，放款成功
+放款的transactionId为： zlmfangkuan1557122900
+放款返回结果为： 47f8f78d-c859-431d-a93d-5db24b2db488
+.bid值为： hr05060010
+查询请款结果为：status:PENDING       message：校验成功，正式进件结果返回
+
+4.overBal为-1，放款成功
+放款的transactionId为： zlmfangkuan1557129681
+放款返回结果为： 32869047-83bb-4903-9afb-79a789ad3f3f
+.bid值为： hr05060015
+查询请款结果为：status:PENDING       message：校验成功，正式进件结果返回
+
+5.ifcheckUni输入值为3，不在枚举范围内，放款成功
+放款的transactionId为： zlmfangkuan1557130653
+放款返回结果为：. adfc841b-120f-46db-921d-be7d7b4f4f68
+bid值为： hr05060017
+查询请款结果为：status:PENDING       message：校验成功，正式进件结果返回
+
+6.Idtype 输入值为：D 不在枚举范围内，放款成功了
+放款的transactionId为： zlmfangkuan1557135493
+放款返回结果为： e42bb4c4-1267-460c-b9e1-8eb28da8f5a2
+.bid值为： hr05060027
+查询请款结果为：status:PENDING       message：校验成功，正式进件结果返回
+
+新增问题
+
+7.Idtype，输入值为：K，不在枚举范围内，放款提示：身份证号码非法（应该提示：Idtype不在枚举范围内）
+放款的transactionId为： zlmfangkuan1557140123
+放款返回结果为：. 45d1ad08-31f4-4725-b90e-ffc5e5e1d007
+bid值为： hr05060035
+查询请款结果为：status:FAIL       message：身份证号码非法
+
+2019-05-08号
+初始化产生的threadId为： WC1MWl9BMTNWSzZf
+预审批transactionId: zlmyishenpi1557284769
+预审批请求返回结果： {'responseCode': '0000', 'message': '预审批申请处理中', 'data': {'status': 'pending', 'reasonCode': None, 'message': None, 'externalCode': None, 'externalNo': None, 'externalDesc': None, 'deadlineTime': None, 'preApprovalAmount': None, 'transferUrl': None}}
+放款的transactionId为： zlmfangkuan1557284769
+放款放回结果为： 2ff0e545-2aa1-4b05-8ec6-5f679b35bc73
+.bid值为： 20190508001
+查询请款结果为：status:PENDING       message：校验成功，正式进件结果返回
+.
+----------------------------------------------------------------------
+Ran 2 tests in 8.138s
+
+OK
+[Finished in 9.3s]
