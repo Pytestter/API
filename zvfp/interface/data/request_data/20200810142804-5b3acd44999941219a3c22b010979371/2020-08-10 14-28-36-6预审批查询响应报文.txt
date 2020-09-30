@@ -1,0 +1,40 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "5b3acd44999941219a3c22b010979371",
+        "preCheckGUID": "086e4f060ebd4edc9795ee88da23522c",
+        "vtsCode": "null",
+        "status": "passed",
+        "fundList": null,
+        "fundCode": "FDCD000011",
+        "threadId": "LTQlNjclN0IlNi0j",
+        "preTransactionId": "vfp-1597041119444-162816",
+        "desc": "资方预审通过",
+        "operationOption": null,
+        "externalNo": "LTQlNjclN0IlNi0j",
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": 0.0085,
+        "paymentMonthSum": 1913.78,
+        "upFrontRate": 0.06,
+        "decisionUpfrontLabel": "不收取",
+        "consultationRate": 0.0,
+        "changePeriod": "3",
+        "changeMonthlyRate": 0.01,
+        "monthRateType": 2,
+        "extensions": {
+            "fundSource": "FDSC000036",
+            "coYearRate": 0.1,
+            "jointLoanInfo": {
+                "isJointLoan": 0,
+                "jointLoanfundList": []
+            },
+            "monthlyRiskProRate": "0",
+            "irrMonthlyRate": 0.015002
+        },
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

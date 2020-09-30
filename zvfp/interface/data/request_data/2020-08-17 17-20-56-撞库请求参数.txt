@@ -1,0 +1,6 @@
+{
+    "productCode": "zyxj",
+    "phoneNo": "15652063491",
+    "idCardNo": "513422199301122460",
+    "customerName": "张伟"
+}

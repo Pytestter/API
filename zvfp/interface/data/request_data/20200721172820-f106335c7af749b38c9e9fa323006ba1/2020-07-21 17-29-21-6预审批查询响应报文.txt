@@ -1,0 +1,60 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "f106335c7af749b38c9e9fa323006ba1",
+        "preCheckGUID": "1125eaf119db4b12949bd170b518e17e",
+        "vtsCode": "null",
+        "status": "passed",
+        "fundList": null,
+        "fundCode": "FDCD000054",
+        "threadId": "LVBGNl9OVSNJLUtfIzczMDNSSUw=",
+        "preTransactionId": "vfp-1595323907444-458019",
+        "desc": "资方预审通过",
+        "operationOption": null,
+        "externalNo": "1012202007214477903",
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": 0.0089,
+        "paymentMonthSum": 5267.0,
+        "upFrontRate": 0.06,
+        "decisionUpfrontLabel": "不收取",
+        "consultationRate": 0.0,
+        "changePeriod": "3",
+        "changeMonthlyRate": 0.01,
+        "monthRateType": 2,
+        "extensions": {
+            "fundSource": "FDSC00007001002",
+            "coYearRate": 0.13,
+            "jointLoanInfo": {
+                "isJointLoan": "1",
+                "jointLoanfundSource": "FUNDSOURCE/CYXJLHD_KLMYJL",
+                "jointLoanfundList": [
+                    {
+                        "fundCompName": "陕西长银消费金融有限公司",
+                        "fundCompAbbr": "长银消金",
+                        "fundRatio": "0.10",
+                        "fundScale": null,
+                        "address": "陕西省西安经济技术开发区凤城八路与文景路交汇西北国金中心D座12F",
+                        "phone": "029-68293666",
+                        "type": "0"
+                    },
+                    {
+                        "fundCompName": "克拉玛依金龙国民村镇银行",
+                        "fundCompAbbr": "克拉玛依金龙国民村镇银行",
+                        "fundRatio": "0.90",
+                        "fundScale": null,
+                        "address": "克拉玛依市塔河路67号",
+                        "phone": "0990-6370029",
+                        "type": "1"
+                    }
+                ]
+            },
+            "monthlyRiskProRate": "0",
+            "irrMonthlyRate": 0.015069
+        },
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

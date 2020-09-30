@@ -1,0 +1,10 @@
+{
+    "serviceCode": "init",
+    "idCardNo": "150526198805082673",
+    "customerName": "许酒社",
+    "idType": "20",
+    "pid": "319174329378295808",
+    "productCode": "PDCD000012",
+    "tractionId": "zlmtestchushihua1595320279",
+    "routeAuthToken": null
+}

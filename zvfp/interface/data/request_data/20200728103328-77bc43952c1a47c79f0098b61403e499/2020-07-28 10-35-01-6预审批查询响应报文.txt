@@ -1,0 +1,54 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "77bc43952c1a47c79f0098b61403e499",
+        "preCheckGUID": null,
+        "vtsCode": null,
+        "status": "timeout",
+        "fundList": [
+            {
+                "fundCode": "FDCD000054",
+                "reallyMonthlyRate": 0.0089,
+                "upFrontRate": 0.06,
+                "consultationRate": 0.0,
+                "coYearRate": 0.13,
+                "irrMonthlyRate": 0.015069,
+                "monthlyRiskProRate": "0",
+                "decisionUpfrontLabel": "不收取",
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000054",
+                "reallyMonthlyRate": 0.0089,
+                "upFrontRate": 0.06,
+                "consultationRate": 0.0,
+                "coYearRate": 0.13,
+                "irrMonthlyRate": 0.015069,
+                "monthlyRiskProRate": "0",
+                "decisionUpfrontLabel": "不收取",
+                "fundSrouce": null
+            }
+        ],
+        "fundCode": null,
+        "threadId": null,
+        "preTransactionId": null,
+        "desc": "资方预审超时",
+        "operationOption": null,
+        "externalNo": null,
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": null,
+        "paymentMonthSum": null,
+        "upFrontRate": null,
+        "decisionUpfrontLabel": null,
+        "consultationRate": null,
+        "changePeriod": null,
+        "changeMonthlyRate": null,
+        "monthRateType": null,
+        "extensions": null,
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "3386bca7981447cab3ad2add618dc5a4",
+        "preCheckGUID": null,
+        "vtsCode": null,
+        "status": "failed",
+        "fundList": null,
+        "fundCode": null,
+        "threadId": null,
+        "preTransactionId": null,
+        "desc": "资方预审被拒,失败原因：预审批申请请求资方:该申请流水号【1012202102054480262】对应的申请日期【applyDt】与当前系统的营业时间不一致！",
+        "operationOption": null,
+        "externalNo": null,
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": null,
+        "paymentMonthSum": null,
+        "upFrontRate": null,
+        "decisionUpfrontLabel": null,
+        "consultationRate": null,
+        "changePeriod": null,
+        "changeMonthlyRate": null,
+        "monthRateType": null,
+        "extensions": null,
+        "lprRate": null,
+        "lprPublishDate": null
+    }
+}

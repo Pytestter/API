@@ -1,0 +1,39 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "1c8f5a9bdfda431887636676f93db868",
+        "preCheckGUID": "d84b079144ec4adeb07f14aec003fdd2",
+        "vtsCode": "null",
+        "status": "passed",
+        "fundList": null,
+        "fundCode": "FDCD000019",
+        "threadId": "I0gjQ19IXzI1MTMjTjM2TFo3OF8=",
+        "preTransactionId": "vfp-1595993671037-276884",
+        "desc": "资方预审通过",
+        "operationOption": null,
+        "externalNo": "202018001137433743944",
+        "fundPackageCode": "3",
+        "fundAccountId": "2",
+        "deadlineTime": null,
+        "reallyMonthlyRate": 0.0179,
+        "paymentMonthSum": 9228.33,
+        "upFrontRate": 0.06,
+        "decisionUpfrontLabel": "收取",
+        "consultationRate": 0.0,
+        "changePeriod": "3",
+        "changeMonthlyRate": 0.0201,
+        "monthRateType": 2,
+        "extensions": {
+            "accountName": "35606-外贸信托-维信增信1号单一资金信托",
+            "packageMode": "0",
+            "fundSource": null,
+            "monthlyInterestRate": 0.0233,
+            "coYearRate": 0.28,
+            "monthlyRiskProRate": "0",
+            "irrMonthlyRate": 0.02995
+        },
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "serviceCode": "init",
+    "idCardNo": "530924198609165025",
+    "customerName": "周红梅",
+    "idType": "20",
+    "pid": "319174329378295808",
+    "productCode": "PDCD000032",
+    "tractionId": "zlmtestchushihua1596012340",
+    "routeAuthToken": "0040ad11ddf74f939933dcece8ab94b6"
+}

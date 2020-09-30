@@ -1,0 +1,39 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "cd5f755018724ad7bde62e5dad368161",
+        "preCheckGUID": "a7612d81e75d4f5aa29247659337777a",
+        "status": "screening",
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520",
+        "fundList": [
+            {
+                "fundCode": "FDCD000034",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000034",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            }
+        ]
+    }
+}

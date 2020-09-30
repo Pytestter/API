@@ -1,0 +1,10 @@
+{
+    "serviceCode": "init",
+    "idCardNo": "630202198711101068",
+    "customerName": "伏约朝",
+    "idType": "20",
+    "pid": "319174329378295808",
+    "productCode": "PDCD000012",
+    "tractionId": "zlmtestchushihua1595318718",
+    "routeAuthToken": "b71719a459bb4c439ec53f7065034762"
+}

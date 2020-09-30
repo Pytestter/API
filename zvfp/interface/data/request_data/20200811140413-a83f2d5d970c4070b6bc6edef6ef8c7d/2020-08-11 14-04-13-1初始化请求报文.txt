@@ -1,0 +1,10 @@
+{
+    "serviceCode": "init",
+    "idCardNo": "150403197807256126",
+    "customerName": "宋伟",
+    "idType": "20",
+    "pid": "319174329378295808",
+    "productCode": "PDCD000032",
+    "tractionId": "zlmtestchushihua1597125849",
+    "routeAuthToken": null
+}

@@ -1,0 +1,10 @@
+{
+    "serviceCode": "init",
+    "idCardNo": "420107197709128627",
+    "customerName": "彭博",
+    "idType": "20",
+    "pid": "319174329378295808",
+    "productCode": "PDCD000012",
+    "transactionId": "zlmtestchushihua1601366403",
+    "routeAuthToken": "f4c1d651c55b4f51a27cb3884fbf626d"
+}

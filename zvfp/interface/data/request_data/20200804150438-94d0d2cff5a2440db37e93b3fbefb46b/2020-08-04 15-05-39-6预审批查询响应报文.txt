@@ -1,0 +1,60 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "94d0d2cff5a2440db37e93b3fbefb46b",
+        "preCheckGUID": "0d78fb2496ef435b8e64889354acc9ae",
+        "vtsCode": "null",
+        "status": "passed",
+        "fundList": null,
+        "fundCode": "FDCD000054",
+        "threadId": "LUg4JSVGNiNfTUk5JTUwOTk1OC0=",
+        "preTransactionId": "vfp-1596524882732-202331",
+        "desc": "资方预审通过",
+        "operationOption": null,
+        "externalNo": "1012202105204482635",
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": 0.0171,
+        "paymentMonthSum": 1606.93,
+        "upFrontRate": 0.03,
+        "decisionUpfrontLabel": "收取",
+        "consultationRate": 0.0,
+        "changePeriod": "3",
+        "changeMonthlyRate": 0.0201,
+        "monthRateType": 2,
+        "extensions": {
+            "fundSource": "FDSC00007001001",
+            "coYearRate": 0.13,
+            "jointLoanInfo": {
+                "isJointLoan": "1",
+                "jointLoanfundSource": "FUNDSOURCE/CYXJLHD_HMHX",
+                "jointLoanfundList": [
+                    {
+                        "fundCompName": "陕西长银消费金融有限公司",
+                        "fundCompAbbr": "长银消金",
+                        "fundRatio": "0.10",
+                        "fundScale": null,
+                        "address": "陕西省西安经济技术开发区凤城八路与文景路交汇西北国金中心D座12F",
+                        "phone": "029-68293666",
+                        "type": "0"
+                    },
+                    {
+                        "fundCompName": "哈密红星国民村镇银行",
+                        "fundCompAbbr": "哈密红星国民村镇银行",
+                        "fundRatio": "0.90",
+                        "fundScale": null,
+                        "address": "哈密大营房百花路3号",
+                        "phone": "956058",
+                        "type": "1"
+                    }
+                ]
+            },
+            "monthlyRiskProRate": "0",
+            "irrMonthlyRate": 0.029952
+        },
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

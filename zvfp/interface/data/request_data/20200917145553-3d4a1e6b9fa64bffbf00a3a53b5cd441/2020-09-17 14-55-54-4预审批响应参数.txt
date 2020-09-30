@@ -1,0 +1,130 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "3d4a1e6b9fa64bffbf00a3a53b5cd441",
+        "preCheckGUID": "2a5ad7c463ea4124aef099d2080d02d8",
+        "status": "screening",
+        "lprRate": 0.0375,
+        "lprPublishDate": "20200708",
+        "fundList": [
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000038",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000038",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000029",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000053",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000036",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "maxWaitMillis": 0,
+    "batchNo": "testbatchno685149",
+    "batchSize": 1,
+    "instructions": [
+        {
+            "bid": "404657",
+            "threadId": "VElLRk4lOSM0NFFf",
+            "customerType": null,
+            "accountCategory": 0,
+            "productCode": null,
+            "transactionId": "testloaninstruction2824983",
+            "sequenceNumber": null,
+            "projectCode": null,
+            "customerName": "宋超",
+            "idType": "CETP000001",
+            "idNumber": "130528197312044067",
+            "mobilePhone": "13414205569",
+            "loanAmount": "30000",
+            "loanCurrency": null,
+            "accountName": "宋超",
+            "bankCardNo": "6217009672299708256",
+            "bankCode": "105100000017",
+            "channelCode": "ylbank",
+            "ProductCode": null,
+            "fundingUsage": "LUCS000007",
+            "bankProvince": null,
+            "bankCity": null,
+            "extensions": {
+                "bankName": "建设银行",
+                "loanPeriod": "6",
+                "marrStatus": "MAST000001",
+                "eduDegree": "EDBK000009",
+                "repayment": {
+                    "dueDay": "09",
+                    "mode": "10",
+                    "payAcctName": "宋超",
+                    "payAcctCard": "6225882270039826",
+                    "payAcctNo": "308584000013"
+                },
+                "contract": {
+                    "baseRate": null,
+                    "rateMode": "FX",
+                    "rateMethodRATEMETHOD": null,
+                    "rate": "9.0000000",
+                    "period": "9",
+                    "loanterm2": null,
+                    "nxtIntRatChgOpt": "FX",
+                    "fixRateInd": "Y",
+                    "floatRate": 0.0
+                },
+                "cbhbOthers": {
+                    "loanPurPoseName": null,
+                    "channelId": "66",
+                    "bankLoanAmt": 18000.0,
+                    "loanApplDate": "0001-01-01",
+                    "partnerCode": "NLP12",
+                    "partnerName": "维信金科",
+                    "partnerLoanAmt": 180.0,
+                    "trdPbocQueryNo": "DDQ181300020019000029",
+                    "signMessage": null,
+                    "signType": "30",
+                    "termType": "M",
+                    "typeNo": "NLP12001",
+                    "wdSerialNo": "20200609000002"
+                },
+                "loanInfo": {
+                    "totalCnt": 6
+                },
+                "spouseInfo": {
+                    "spouseName": null
+                },
+                "appTime": "2020-05-22T14:19:55.916",
+                "custType": "03",
+                "appCity": "340800",
+                "contactPhoneNum": "13636659856,13917881831,13341613113",
+                "FirstUTLine": "50000.00",
+                "FirstUTtime": "2020-05-22T14:19:55.916",
+                "currLine": "20000.00",
+                "loanTime": "2020-05-21T16:59:06.000"
+            }
+        }
+    ]
+}

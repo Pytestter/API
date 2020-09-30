@@ -1,0 +1,65 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "f86087a0d5234fd6ad563f9bd16a68b8",
+        "preCheckGUID": null,
+        "vtsCode": null,
+        "status": "timeout",
+        "fundList": [
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": 0.0179,
+                "upFrontRate": 0.03,
+                "consultationRate": 0.0,
+                "coYearRate": 0.08,
+                "irrMonthlyRate": 0.02995,
+                "monthlyRiskProRate": "0",
+                "decisionUpfrontLabel": "收取",
+                "fundSrouce": "FDSC000060"
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": 0.0179,
+                "upFrontRate": 0.03,
+                "consultationRate": 0.0,
+                "coYearRate": 0.085,
+                "irrMonthlyRate": 0.02995,
+                "monthlyRiskProRate": "0",
+                "decisionUpfrontLabel": "收取",
+                "fundSrouce": "FDSC000065"
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": 0.0179,
+                "upFrontRate": 0.03,
+                "consultationRate": 0.0,
+                "coYearRate": 0.08,
+                "irrMonthlyRate": 0.02995,
+                "monthlyRiskProRate": "0",
+                "decisionUpfrontLabel": "收取",
+                "fundSrouce": "FDSC000066"
+            }
+        ],
+        "fundCode": null,
+        "threadId": null,
+        "preTransactionId": null,
+        "desc": "资方预审超时",
+        "operationOption": null,
+        "externalNo": null,
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": null,
+        "paymentMonthSum": null,
+        "upFrontRate": null,
+        "decisionUpfrontLabel": null,
+        "consultationRate": null,
+        "changePeriod": null,
+        "changeMonthlyRate": null,
+        "monthRateType": null,
+        "extensions": null,
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "c6b1003687754edc8f5948cf24746e48",
+        "preCheckGUID": "2039e634cb7f442e904bbaec7b6c1155",
+        "vtsCode": "null",
+        "status": "passed",
+        "fundList": null,
+        "fundCode": "FDCD000011",
+        "threadId": "MF9fNjI5LThCU0df",
+        "preTransactionId": "vfp-1596115476362-533501",
+        "desc": "资方预审通过",
+        "operationOption": null,
+        "externalNo": "MF9fNjI5LThCU0df",
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": 0.0171,
+        "paymentMonthSum": 1908.23,
+        "upFrontRate": 0.06,
+        "decisionUpfrontLabel": "收取",
+        "consultationRate": 0.0,
+        "changePeriod": "3",
+        "changeMonthlyRate": 0.0201,
+        "monthRateType": 2,
+        "extensions": {
+            "fundSource": "FDSC000036",
+            "coYearRate": 0.1,
+            "jointLoanInfo": {
+                "isJointLoan": 0,
+                "jointLoanfundList": [
+                    {
+                        "fundRatio": "1.0",
+                        "fundCompName": "吉林亿联银行股份有限公司",
+                        "fundScale": "1.0"
+                    }
+                ]
+            },
+            "monthlyRiskProRate": "0",
+            "irrMonthlyRate": 0.029952
+        },
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

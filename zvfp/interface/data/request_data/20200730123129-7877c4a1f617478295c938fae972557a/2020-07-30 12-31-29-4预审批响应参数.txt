@@ -1,0 +1,5 @@
+{
+    "responseCode": "0101",
+    "message": "接口异常message:请求失败，maximumAvailableAmount([申请人]最大实际可用额度)不能为空",
+    "data": null
+}

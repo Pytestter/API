@@ -1,0 +1,31 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "8c7bb44197a6427ea2c54e0801aa56e3",
+        "preCheckGUID": null,
+        "vtsCode": null,
+        "status": "failed",
+        "fundList": null,
+        "fundCode": null,
+        "threadId": null,
+        "preTransactionId": null,
+        "desc": "资方预审被拒,失败原因：预审批申请请求资方：调用信贷接口异常:com.netflix.client.ClientException: Load balancer does not have available server for client: polaris",
+        "operationOption": null,
+        "externalNo": null,
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": null,
+        "paymentMonthSum": null,
+        "upFrontRate": null,
+        "decisionUpfrontLabel": null,
+        "consultationRate": null,
+        "changePeriod": null,
+        "changeMonthlyRate": null,
+        "monthRateType": null,
+        "extensions": null,
+        "lprRate": null,
+        "lprPublishDate": null
+    }
+}

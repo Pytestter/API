@@ -1,0 +1,33 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "0a74b8bcaa0e4c9f92ec93dc34252561",
+        "preCheckGUID": "ab4ba591a9994bf9b0ad15f0178e46f6",
+        "vtsCode": "null",
+        "status": "passed",
+        "fundList": null,
+        "fundCode": "FDCD000029",
+        "threadId": "",
+        "preTransactionId": null,
+        "desc": "资方预审通过",
+        "operationOption": null,
+        "externalNo": "",
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": 0.0089,
+        "paymentMonthSum": 8778.33,
+        "upFrontRate": 0.06,
+        "decisionUpfrontLabel": "不收取",
+        "consultationRate": 0.0,
+        "changePeriod": "3",
+        "changeMonthlyRate": 0.01,
+        "monthRateType": 2,
+        "extensions": {
+            "coYearRate": 0.1068
+        },
+        "lprRate": 0.0385,
+        "lprPublishDate": "20200520"
+    }
+}

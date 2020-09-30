@@ -1,0 +1,6 @@
+{
+    "productCode": "FDCD100002",
+    "phoneNo": "15570120227",
+    "idCardNo": "150626198502212018",
+    "customerName": "席霞"
+}

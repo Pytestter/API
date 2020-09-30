@@ -1,0 +1,31 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "802c8fc84b2e426faad0ce51cbcdee13",
+        "preCheckGUID": null,
+        "vtsCode": null,
+        "status": "failed",
+        "fundList": null,
+        "fundCode": null,
+        "threadId": null,
+        "preTransactionId": null,
+        "desc": "资方预审被拒,失败原因：ylbank预审批响应体为null！",
+        "operationOption": null,
+        "externalNo": null,
+        "fundPackageCode": null,
+        "fundAccountId": null,
+        "deadlineTime": null,
+        "reallyMonthlyRate": null,
+        "paymentMonthSum": null,
+        "upFrontRate": null,
+        "decisionUpfrontLabel": null,
+        "consultationRate": null,
+        "changePeriod": null,
+        "changeMonthlyRate": null,
+        "monthRateType": null,
+        "extensions": null,
+        "lprRate": null,
+        "lprPublishDate": null
+    }
+}

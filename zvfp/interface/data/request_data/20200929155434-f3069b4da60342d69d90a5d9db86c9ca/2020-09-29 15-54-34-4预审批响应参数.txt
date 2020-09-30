@@ -1,0 +1,5 @@
+{
+    "responseCode": "0001",
+    "message": "未找到符合要求的资方",
+    "data": null
+}

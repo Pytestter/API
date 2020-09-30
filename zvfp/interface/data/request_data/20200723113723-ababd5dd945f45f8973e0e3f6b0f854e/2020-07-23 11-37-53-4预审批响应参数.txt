@@ -1,0 +1,7 @@
+{
+    "timestamp": 1595475675640,
+    "path": "/fund/routeDataSubmit",
+    "status": 500,
+    "error": "Internal Server Error",
+    "message": "connection timed out: /10.42.9.147:18010"
+}

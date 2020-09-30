@@ -1,0 +1,5 @@
+{
+    "responseCode": "0101",
+    "message": "接口异常message:请求失败，whiteListType([申请人]白名单类型)不能为空",
+    "data": null
+}

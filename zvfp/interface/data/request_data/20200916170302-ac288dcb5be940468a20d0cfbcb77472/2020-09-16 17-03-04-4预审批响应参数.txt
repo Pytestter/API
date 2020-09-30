@@ -1,0 +1,65 @@
+{
+    "responseCode": "0000",
+    "message": "成功",
+    "data": {
+        "routeAuthToken": "ac288dcb5be940468a20d0cfbcb77472",
+        "preCheckGUID": "5ab7f96a8891466da02e9fc7fd2e95d7",
+        "status": "screening",
+        "lprRate": 0.0375,
+        "lprPublishDate": "20200708",
+        "fundList": [
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            },
+            {
+                "fundCode": "FDCD000049",
+                "reallyMonthlyRate": null,
+                "upFrontRate": 0.0,
+                "consultationRate": 0.0,
+                "coYearRate": null,
+                "paymentMonthSum": null,
+                "changePeriod": null,
+                "changeMonthlyRate": null,
+                "monthlyRiskProRate": null,
+                "decisionUpfrontLabel": null,
+                "fundSrouce": null
+            }
+        ]
+    }
+}
